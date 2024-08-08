@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/esmanp/gorengoz2024/blob/main/gg.png?raw=true)
+![Logo](https://github.com/esmanp/gorengoz2024/blob/main/gg-dark.png?raw=true)
   
 # Müşteri Geri Bildirimi Yönetim Sistemi
 
@@ -22,10 +22,15 @@ Açıklama ekle
 ### Hugging Face Modeli
 
 https://huggingface.co/Gorengoz/bert-turkish-sentiment-analysis-cased
+
 https://huggingface.co/Gorengoz/bert-turkish-sentiment-analysis-winvoker
+
 https://huggingface.co/Gorengoz/bert-based-Turkish-NER
+
 https://huggingface.co/Gorengoz/bert-based-Turkish-NER-wikiann
-https://huggingface.co/Gorengoz/bert-turkish-sentiment-analysis-cased
+
+
+
 
 
 
