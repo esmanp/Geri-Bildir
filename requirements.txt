@@ -3,4 +3,4 @@ transformers
 pydantic
 sentencepiece
 tensorflow
-pytorch
+torch
