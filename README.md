@@ -9,7 +9,7 @@
 
 Açıklama ekle
 
-![uygulama](https://github.com/esmanp/gorengoz2024/blob/main/Scn.png?raw=true)
+![uygulama](https://github.com/esmanp/gorengoz2024/blob/main/uygulama.png?raw=true)
 
 
 ## Problem Tanımı
