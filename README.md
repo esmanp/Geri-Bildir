@@ -6,7 +6,7 @@
 [![Streamlit App](https://docs.streamlit.io/logo.svg)](https://docs.streamlit.io)
 
 
-Geri Bildir, tüketicilerin aldıkları ürün veya hizmet karşılığı oluşturduğu geri bildirimlerinin analiz edilerek ilgili sağlayıcılara iletilmesini kolaylaştırmak amacıyla geliştirilmiştir. Tüketicier ve organizasyonlar arasında bir köprü görevi sağlar.
+Geri Bildir, tüketicilerin aldıkları ürün veya hizmet karşılığı oluşturduğu geri bildirimlerinin analiz edilerek ilgili sağlayıcılara iletilmesini kolaylaştırmak amacıyla geliştirilmiştir. Tüketiciler ve organizasyonlar arasında bir köprü görevi sağlar.
 
 ![uygulama](https://github.com/esmanp/gorengoz2024/blob/main/uygulama.png?raw=true)
 
@@ -20,28 +20,28 @@ Geri Bildir, tüketicilerin aldıkları ürün veya hizmet karşılığı oluşt
 
 ### Hugging Face Modeli
 
+#### Geliştirilen Text-Classification Modelleri
+
 https://huggingface.co/Gorengoz/bert-turkish-sentiment-analysis-cased
 
 https://huggingface.co/Gorengoz/bert-turkish-sentiment-analysis-winvoker
+
+#### Geliştirilen NER Modelleri
 
 https://huggingface.co/Gorengoz/bert-based-Turkish-NER
 
 https://huggingface.co/Gorengoz/bert-based-Turkish-NER-wikiann
 
 
-
-
-
-
 ### Site 
 Demo:
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gorengozun.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://geri-bildir.streamlit.app/)
   
 
 ## Bu web uygulamasını kendi bilgisayarınızda yeniden oluşturmak için aşağıdaki adımları takip edebilirsiniz: 
 
 ```bash
-  wget https://github.com/esmanp/gorengoz/blob/main/requirements.txt
+  wget https://github.com/esmanp/Geri-Bildir/blob/main/requirements.txt
 
 ```
 
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 ```bash
-  wget https://github.com/esmanp/gorengoz/archive/refs/heads/main.zip
+  wget https://github.com/esmanp/Geri-Bildir/archive/refs/heads/main.zip
 ```
 
 ```bash
@@ -61,7 +61,7 @@ pip install -r requirements.txt
  streamlit run app.py
 ```
 
-Bu proje TEKNOFEST 2023 Türkçe Doğal Dil İşleme Yarışması'na katılmak amacıyla Görengöz ekibi tarafından geliştirilmiştir. #Acikhack2023
+Bu proje TEKNOFEST 2024 Türkçe Doğal Dil İşleme Yarışması'na katılmak amacıyla Görengöz ekibi tarafından geliştirilmiştir. #Acikhack2024
     
 
 
