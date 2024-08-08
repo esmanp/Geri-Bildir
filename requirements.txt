@@ -1,0 +1,9 @@
+streamlit 
+smtplib
+email.mime.text
+transformers
+pydantic
+PIL 
+sentencepiece
+tensorflow
+torch
