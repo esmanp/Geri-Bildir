@@ -1,11 +1,12 @@
 
-# Müşteri Geri Bildirimi Yönetim Sistemi
+# Geri Bildir
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![Streamlit App](https://docs.streamlit.io/logo.svg)](https://docs.streamlit.io)
 
-Açıklama ekle
+
+Geri Bildir, tüketicilerin aldıkları ürün veya hizmet karşılığı oluşturduğu geri bildirimlerinin analiz edilerek ilgili sağlayıcılara iletilmesini kolaylaştırmak amacıyla geliştirilmiştir. Tüketicier ve organizasyonlar arasında bir köprü görevi sağlar.
 
 ![uygulama](https://github.com/esmanp/gorengoz2024/blob/main/uygulama.png?raw=true)
 
