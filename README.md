@@ -1,6 +1,4 @@
 
-![Logo](https://github.com/esmanp/gorengoz2024/blob/main/gg-dark.png?raw=true)
-  
 # Müşteri Geri Bildirimi Yönetim Sistemi
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
