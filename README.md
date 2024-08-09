@@ -13,10 +13,31 @@ Geri Bildir, tüketicilerin aldıkları ürün veya hizmet karşılığı oluşt
 
 ## Problem Tanımı
 
+“İnsanların güvenini kaybetmektense para kaybetmeyi tercih ederim!”
+Robert Bosch
 
+Müşteri önce şikayetini veya geri bildirimini iletir, ardından şikâyete konu durum belgelendirilir ve şikâyet, işletmenin ilgili birimleri tarafından çözümlenmek üzere yolculuğuna başlar...
 
+Bu sürece en basit haliyle şikâyet yönetimi denir.
+
+## PROJENİN SAĞLADIĞI ÇÖZÜM
+
+##### Hedef kitle
+- Kurumsal Şirketler
+- Müşteri/ Tüketiciler
+
+##### Çözüm
+- Basit ve Kullanışlı Arayüz
+- Gizlilik
+- Hızlı Geri Bildirim
+- Memnuniyet Bildirimi
+- ISO 10002 Müşteri Memnuniyeti Yönetim Sistemi Belgesi
 
 ## Katkılarımız
+
+### Veri Seti
+
+https://huggingface.co/datasets/Gorengoz/tr-customerreview
 
 ### Hugging Face Modeli
 
@@ -32,9 +53,8 @@ https://huggingface.co/Gorengoz/bert-based-Turkish-NER
 
 https://huggingface.co/Gorengoz/bert-based-Turkish-NER-wikiann
 
-
 ### Site 
-Demo:
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://geri-bildir.streamlit.app/)
   
 
