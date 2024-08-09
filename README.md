@@ -19,9 +19,9 @@ Müşteri önce şikayetini veya geri bildirimini iletir, ardından şikâyete k
 
 Bu sürece en basit haliyle şikâyet yönetimi denir.
 
-## PROJENİN SAĞLADIĞI ÇÖZÜM
+## Projenin Sağladığı Çözüm
 
-##### Hedef kitle
+##### Hedef Kitle
 - Kurumsal Şirketler
 - Müşteri/ Tüketiciler
 
@@ -56,7 +56,6 @@ https://huggingface.co/Gorengoz/bert-based-Turkish-NER-wikiann
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://geri-bildir.streamlit.app/)
   
-
 ## Bu web uygulamasını kendi bilgisayarınızda yeniden oluşturmak için aşağıdaki adımları takip edebilirsiniz: 
 
 ```bash
