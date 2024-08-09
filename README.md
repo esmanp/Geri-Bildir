@@ -10,7 +10,6 @@ Geri Bildir, tüketicilerin aldıkları ürün veya hizmet karşılığı oluşt
 
 ![uygulama](https://github.com/esmanp/gorengoz2024/blob/main/uygulama.png?raw=true)
 
-
 ## Problem Tanımı
 
 “İnsanların güvenini kaybetmektense para kaybetmeyi tercih ederim!”
